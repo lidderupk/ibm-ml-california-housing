@@ -6,6 +6,10 @@ While it is easy to share code with technical folks and dashboards with your non
 Prerequisites - Curious minds! Bring your laptop, and the rest happens on the cloud!
 
 Who is this workshop for? Data Scientists who understand various model, hyper-parameters and are looking for ways to scare their model deployments and monitor/improve over time. Software developers who are looking to dip their feet into Machine Learning or want to create models to use in their applications. Data Science beginners who want to create their first model!
+
+## IBM Cloud Sign Up and Log In
+**[IBM Cloud](http://bit.ly/ibm-hive-ml)** - http://bit.ly/ibm-hive-ml
+
 ## Replay
 **[Introduction to Jupyter notebooks in Watson Studio](https://www.crowdcast.io/e/pde74rr2)** - https://www.crowdcast.io/e/pde74rr2
 
